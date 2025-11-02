@@ -14,9 +14,9 @@
 # Exercises will not be recommended twice
 
 # How to run:
-# This program requires Python to run, any Python environment will work
+# This program requires Visual Studio Code
 # This code should be copied or downloaded 
-# This code should be pasted or placed in a Python environment (Terminal, Visual Studio Design, IDE etc.)
+# This code should be pasted or placed in Visual Studio Code
 # Run the program
 # Follow the onscreen prompts
 
