@@ -1,6 +1,7 @@
 # Digital-Personal-Trainer
 
-# This project datafies the decision-making processes employed by personal trainers
+# This project was developed on Visual Design Code
+# This code datafies the decision-making processes employed by personal trainers
 # The scope of Digital Personal Trainer is to translate the logic behind trainers' reasoning and recommendation into code
 
 # The project will:
